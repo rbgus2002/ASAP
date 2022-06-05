@@ -58,7 +58,9 @@
    </div>
        <p></p>
 
-       
+### 공모전 제출용 유튜브 링크
+https://youtu.be/HMigR5Y_JDQ <p></p>
+
 ## 대표 사진 
 
 
