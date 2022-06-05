@@ -57,12 +57,9 @@
     <img src="https://user-images.githubusercontent.com/77184523/172041619-bd49d0e4-c133-41a3-babc-53a84929fd55.png" width="600" height="300"/>
    </div>
        <p></p>
- #### 구현 기능
-    <div align="center">
-    <img src="https://user-images.githubusercontent.com/77184523/172041733-dc886054-6ac5-465d-ad23-92c36b882281.png" width="600" height="300"/>
-   </div>
-       <p></p>
+
        
+## 대표 사진 
 
 
 <div align="center">
