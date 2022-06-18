@@ -69,9 +69,3 @@ https://youtu.be/HMigR5Y_JDQ <p></p>
  <p></p>
 <img src="https://user-images.githubusercontent.com/62997391/174425115-57244b8c-12fd-46bd-89d4-acfb47714597.jpg" width="400" height="500"/>
  </div>
- 
-![2021 소프트웨어 공모전 총장상](https://user-images.githubusercontent.com/62997391/174425115-57244b8c-12fd-46bd-89d4-acfb47714597.jpg)
- 
- 
- 
- 
