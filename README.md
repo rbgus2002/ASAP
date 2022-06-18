@@ -67,7 +67,7 @@ https://youtu.be/HMigR5Y_JDQ <p></p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/77184523/172040704-345a80f1-b7e6-4b41-a604-9ede4b2b073e.png" width="600" height="300"/>
  <p></p>
-<img src="https://user-images.githubusercontent.com/77184523/172041074-cdf777fd-eb0d-4961-af70-c2d701c0116a.jpg" width="400" height="500"/>
+<img src=![2021 소프트웨어 공모전 총장상](https://user-images.githubusercontent.com/62997391/174425115-57244b8c-12fd-46bd-89d4-acfb47714597.jpg) width="400" height="500"/>
  </div>
  
 ![2021 소프트웨어 공모전 총장상](https://user-images.githubusercontent.com/62997391/174425115-57244b8c-12fd-46bd-89d4-acfb47714597.jpg)
